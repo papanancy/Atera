@@ -32,7 +32,7 @@
   ],
   "ads": [
     {
-      "ad_status": adsterra,
+      "ad_status": true,
       "main_ad": "adsterra",
       "backup_ad": "0",
       "startapp_app_id": "0",

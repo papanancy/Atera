@@ -112,7 +112,7 @@
       "title": "SCTV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/sctv.png",
       "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/sctv.mp4",
+      "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735632901/ei/pVNzZ-_sEuyNg8UPsLvImA0/ip/114.10.10.162/id/lNANbwOsSkI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/x-caUDAURAZBru3qH8Lmjn5yHMODKaoB8VEzJhofs5oaJ8t_PWwcl5gVpaSLJTUvrkDyS8wuSaH3/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPq1FGmYokQkyibzfp92Ycdjx0f3JA2C0coltIvcZAvICIH6jkyzlmDzTbLon1MYvi6JXyilsZ_eU4Ac6E48EmCY6/file/index.m3u8",
       "user_agent": ""
     },
     {
